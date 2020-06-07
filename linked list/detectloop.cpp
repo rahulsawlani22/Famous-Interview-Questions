@@ -1,6 +1,6 @@
 //Find wether a linked list contains a loop or not.
 
-//The solution contains teo effective ways of solving. One is hashing and other is the Floyd's algorithm.
+//The solution contains two effective ways of solving. One is hashing and other is the Floyd's algorithm.
 #include<iostream>
 #include<unordered_set>
 using namespace std;
