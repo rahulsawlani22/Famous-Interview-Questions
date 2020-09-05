@@ -1,4 +1,4 @@
-
+//write a online algorithm to give median of stream of inputs
 #include<iostream>
 #include<queue>
 using namespace std;
